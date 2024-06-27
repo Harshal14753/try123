@@ -1,1 +1,1 @@
-prinf("Version 1 Python");
+print("Version 1 Python");
